@@ -1,0 +1,3 @@
+no_continuous/
+initscore(jaccard)=0
+After removal of total:120 nodes, afterscore(jaccard)=0

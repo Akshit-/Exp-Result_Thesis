@@ -1,0 +1,4 @@
+totalNodes=29130
+overlapNode=489952
+numC=17
+numAnomaly=20

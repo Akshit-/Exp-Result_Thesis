@@ -1,0 +1,3 @@
+iter  AnomalyNodeRemoved  LL
+0 NA -77.985754
+1 8642 -64.146521

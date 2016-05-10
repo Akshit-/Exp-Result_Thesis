@@ -1,0 +1,2 @@
+initscore(jaccard)=0.260869565217
+After removal of total:9 nodes, afterscore(jaccard)=0.304347826087
